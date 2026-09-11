@@ -2,12 +2,12 @@
 
 Use this checklist before any planned production network, firewall, WAN, wireless, or security change.
 
-**Change reference:**
-**Service / site:**
-**Planned start and finish:**
-**Change owner:**
-**Technical approver:**
-**Rollback owner:**
+- **Change reference:**
+- **Service / site:**
+- **Planned start and finish:**
+- **Change owner:**
+- **Technical approver:**
+- **Rollback owner:**
 
 ---
 
