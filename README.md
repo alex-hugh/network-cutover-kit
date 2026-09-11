@@ -36,3 +36,13 @@ Issues, feedback, improvements, and examples of practical cutover workflows are 
 ## Licence
 
 Released under the [MIT License](LICENSE).
+
+## Quick start
+
+No third-party Python packages are required.
+
+Test one or more TCP services:
+
+```bash
+python tools/tcp_probe.py --target example.com:443
+python tools/tcp_probe.py --target 1.1.1.1:443 --target dns.google:53
