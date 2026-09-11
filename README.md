@@ -33,6 +33,15 @@ Early-stage. Initial templates and validation tooling are being developed and re
 
 Issues, feedback, improvements, and examples of practical cutover workflows are welcome.
 
+
+## Quick start
+
+No third-party Python packages are required.
+
+```bash
+python tools/tcp_probe.py --target example.com:443
+python tools/tcp_probe.py --target 1.1.1.1:443 --target dns.google:53
+
 ## Licence
 
 Released under the [MIT License](LICENSE).
